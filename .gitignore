@@ -6,6 +6,8 @@ conf/local/**
 !conf/local/.gitkeep
 .telemetry
 
+
+
 # ignore potentially sensitive credentials files
 conf/**/*credentials*
 
@@ -157,3 +159,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+week0-notebook/data_analysis/raw_data/
+week0-notebook/data_analysis/data.csv/
+week0-notebook/data_analysis/traffic_data/
