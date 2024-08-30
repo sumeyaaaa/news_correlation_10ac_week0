@@ -6,6 +6,19 @@ conf/local/**
 !conf/local/.gitkeep
 .telemetry
 
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore package manager caches
+pip-wheel-metadata/
 
 
 # ignore potentially sensitive credentials files
