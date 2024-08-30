@@ -20,6 +20,15 @@ venv/
 # Ignore package manager caches
 pip-wheel-metadata/
 
+# Ignore Python virtual environment
+venv/
+
+# Ignore environment configuration files
+.env/
+
+# Ignore other unnecessary files
+__pycache__/
+*.py[cod]
 
 # ignore potentially sensitive credentials files
 conf/**/*credentials*
