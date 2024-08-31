@@ -1,6 +1,0 @@
-Found existing installation: gensim 4.3.3
-Uninstalling gensim-4.3.3:
-  Would remove:
-    c:\users\sumey\onedrive\desktop\visual_projects\news_correlation_10ac_week0\.conda\lib\site-packages\gensim-4.3.3.dist-info\*
-    c:\users\sumey\onedrive\desktop\visual_projects\news_correlation_10ac_week0\.conda\lib\site-packages\gensim\*
-Proceed (Y/n)? 
